@@ -163,3 +163,5 @@ console.log(combined);
 // - map: Para mapear un par de identidades de tu programa
 // - sort: Para ordenar los elementos de un array, devuelve el array ordenado
 // - reduce: Para devolver un único valor
+
+// Push de prueba
